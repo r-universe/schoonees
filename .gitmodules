@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cds"]
 	path = cds
 	url = https://github.com/cran/cds
-	shallow = true
-	registered = true
 [submodule "lsbclust"]
 	path = lsbclust
 	url = https://github.com/cran/lsbclust
-	shallow = true
-	registered = true
 [submodule "vdg"]
 	path = vdg
 	url = https://github.com/cran/vdg
-	shallow = true
-	registered = true
